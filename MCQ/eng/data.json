@@ -1,0 +1,75 @@
+{
+    "questions":[
+        {
+            
+                
+                    "question": "What's the name of the city I was born in? ",
+                    "correct": "Almaty",
+                    "answer2": "Astana",
+                    "answer3": "Oakville",
+                    "answer4": "Toronto"  
+        },
+                
+           {
+                    "question": "What's my birthday?",
+                    "correct": "July 27",
+                    "answer2": "August 23",
+                    "answer3": "March 8",
+                    "answer4": "April 3"  
+                },
+           { 
+                    "question": "What's my favorite band?",
+                    "correct": "Metallica",
+                    "answer2": "ACDC",
+                    "answer3": "Guns & Roses",
+                    "answer4": "Green Day"    
+           },
+           { 
+                    "question": "What's my favorite color?",
+                    "answer4": "Grey",
+                    "answer2": "Black",
+                    "answer3": "White",
+                    "correct": "All of them"    
+                },
+            {
+                    "question": "What's my favorite position to sleep?",
+                    "answer3": "On the left side",
+                    "answer2": "On the  right side",
+                    "correct": "On the back",
+                    "answer4": "On the belly"    
+                    },
+                    { "question": "What's my favorite dish? ",
+                        "answer3": "Steak",
+                        "answer2": "Sushi",
+                        "correct": "Pilaf",
+                        "answer4": "Samosa"    
+                    },
+                    { "question": "Who's my favorite actor? ",
+                        "answer3": "Rayan Reinolds",
+                        "answer2": "Johny Depp",
+                        "correct": "50 cent",
+                        "answer4": "Zach Galifianacis"    
+                    },
+                    { "question": "What's my favorite music genre?",
+                        "answer3": "Hip-Hop",
+                        "answer2": "Rock",
+                        "correct": "Post Rock",
+                        "answer4": "EDM"    
+                    },
+                    { "question": "What's my favorite sport?",
+                        "answer3": "Boxing",
+                        "answer2": "Soccer",
+                        "correct": "Running",
+                        "answer4": "Basketball"    
+                    },
+                    { "question": "What's my favorite copmuter game?",
+                        "answer3": "Call of duty",
+                        "answer2": "Minecraft",
+                        "correct": "Far Cry",
+                        "answer4": "GTA"    
+                    },
+                    {}
+
+           
+    ]
+}

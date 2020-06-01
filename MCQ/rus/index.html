@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Тест Мансурф</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='only screen' href='styles.css'>
+    <script src='scripts.js'></script>
+</head>
+<body>
+    <form id="form" method="GET">
+        <p id="question"></p> 
+        <input type="radio" id="answer1" onclick="uncheck1()"><label for="answer1" id="answer#1"></label>
+        <br>
+        <input type="radio" id="answer2" onclick="uncheck2()"><label for="answer2" id="answer#2"></label>
+        <br>
+        <input type="radio" id="answer3" onclick="uncheck3()"><label for="answer3" id="answer#3"></label>
+        <br>
+        <input type="radio" id="answer4" onclick="uncheck4()"><label for="answer4" id="answer#4"></label>
+        <br>
+        <input type="button" value="Answer" id="submit" onclick="checkAnswer()">
+    </form>
+</body>
+</html>

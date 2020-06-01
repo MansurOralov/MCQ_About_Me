@@ -1,0 +1,75 @@
+{
+    "questions":[
+        {
+            
+                
+                    "question": "В каком городе я родился? ",
+                    "correct": "Алматы",
+                    "answer2": "Астана",
+                    "answer3": "Оквилл",
+                    "answer4": "Торонто"  
+        },
+                
+           {
+                    "question": "Когда мой день рождения?",
+                    "correct": "27 Июля",
+                    "answer2": "23 Августа",
+                    "answer3": "8 Марта",
+                    "answer4": "3 Апреля"  
+                },
+           { 
+                    "question": "Какая моя любимая группа?",
+                    "correct": "Metallica",
+                    "answer2": "ACDC",
+                    "answer3": "Guns & Roses",
+                    "answer4": "Green Day"    
+           },
+           { 
+                    "question": "Какой мой любимый цвет?",
+                    "answer4": "Серый",
+                    "answer2": "Черный",
+                    "answer3": "Белый",
+                    "correct": "Все перечисленные"    
+                },
+            {
+                    "question": "Какая моя любимая позиция для сна?",
+                    "answer3": "На левом боку?",
+                    "answer2": "На правом боку",
+                    "correct": "На спине",
+                    "answer4": "На животе"    
+                    },
+                    { "question": "Какое мое любимое блюдо? ",
+                        "answer3": "Стейк",
+                        "answer2": "Суши",
+                        "correct": "Плов",
+                        "answer4": "Самса"    
+                    },
+                    { "question": "Кто мой любимый актер? ",
+                        "answer3": "Райан Рейнольдс",
+                        "answer2": "Джейсон Стэтхем",
+                        "correct": "Джони Депп",
+                        "answer4": "Зак Галифианакис"    
+                    },
+                    { "question": "Какой мой любимый музыкальный жанр?",
+                        "answer3": "Хип-Хоп",
+                        "answer2": "Рок",
+                        "correct": "Пост Рок",
+                        "answer4": "EDM"    
+                    },
+                    { "question": "Какой мой любимый вид спорта?",
+                        "answer3": "Бокс",
+                        "answer2": "Футбол",
+                        "correct": "Бег",
+                        "answer4": "Баскетболл"    
+                    },
+                    { "question": "Какая моя любимая компьютерная игра?",
+                        "answer3": "Call of duty",
+                        "answer2": "Minecraft",
+                        "correct": "Far Cry",
+                        "answer4": "GTA"    
+                    },
+                    {}
+
+           
+    ]
+}

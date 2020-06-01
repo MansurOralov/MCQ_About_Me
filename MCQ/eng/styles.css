@@ -1,0 +1,77 @@
+#submit{
+    width: 100px;
+}
+
+#form{
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    background-color: antiquewhite;
+    text-align: center;
+    opacity: 0.93;
+    border-radius: 25px;
+    width: 300px;
+
+}
+body{
+    background-image: url("quiz.jpg");
+    background-color: #cccccc;
+    
+
+   }
+
+   html, body{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+   }
+
+   #input{
+       position: relative;
+       top: 40%;
+       background-color: beige;
+       border-color: bisque;
+       border-radius: 25px;
+       text-align: center;
+   }
+
+   #lbl{
+    position: relative;
+    top: 40%;
+   }
+
+   #form1{
+    position: absolute;
+    left: 5%;
+    top: 30%;
+    background-color: antiquewhite;
+    text-align: center;
+    opacity: 0.93;
+    border-radius: 25px;
+    width: 300px;
+    height: 100px;
+   }
+
+   #start{
+       background-color: bisque;
+       border-radius: 25px;
+       width: 80px;
+       height: 20px;
+   }
+   #correct{
+       font-size: 25px;
+   }
+
+   #incorrect{
+    font-size: 25px;
+}
+ .lang{
+     width: 100px;
+     margin-top: 10%;
+     margin-bottom:10%;
+     padding: 2;
+     border-radius: 10px;
+     background-color: bisque;
+ }
